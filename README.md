@@ -1,5 +1,5 @@
 # ComputationalGeometry
 
-##1.PotentialField
+## 1.PotentialField
 Demo:
 https://www.youtube.com/watch?v=TmrnWsi8rbs
